@@ -17,7 +17,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/silvamag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Franklin-silva" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/miguel-silva-magui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Franklin-silva" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/franklinsilvam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Franklin-silva" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@miguelsilvamaguina1961/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Franklin-silva" height="30" width="40" /></a>
   <a href="https://web.facebook.com/miguel.silvamaguina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Franklin-silva" height="30" width="40" /></a>
   <a href="https://www.instagram.com/miguelsilvamaguina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Franklin-silva" height="30" width="40" /></a>
