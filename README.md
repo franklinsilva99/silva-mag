@@ -7,13 +7,13 @@
 <h1 align="center">FRANKLIN SILVA</h1>
 <h3 align="center">STUDENT OF SYSTEMS ENGINEERING AND COMPUTER SCIENCE</h3>
 <h4 align="center">*fsilvamaguina@gmail.com *</h4>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p>
-
+<!--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p> -->
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwin-yoner" alt="edwin-yoner" /></a>
 </p>
-
+-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/silvamag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Franklin-silva" height="30" width="40" /></a>
@@ -66,5 +66,6 @@
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwin-yoner&show_icons=true&locale=en" alt="edwin-yoner" /></p>
-
+<!--
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwin-yoner&" alt="edwin-yoner" /></p>
+-->
