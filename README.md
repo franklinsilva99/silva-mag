@@ -5,8 +5,8 @@
 </p>
 
 <h1 align="center">FRANKLIN SILVA</h1>
-<h3 align="center">STUDENT OF SYSTEMS ENGINEERING AND COMPUTER SCIENCE</h3>
-<h4 align="center">*fsilvamaguina@gmail.com *</h4>
+<h3 align="center">Systems and Computer Engineer</h3>
+<h4 align="center"><a href="fsilvamaguina@gmail.com">fsilvamaguina@gmail.com</a></h4>
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p> -->
 <!--
